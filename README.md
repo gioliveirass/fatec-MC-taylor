@@ -1,2 +1,2 @@
-# fatec-MC-taylor
-Desafio de Taylor desenvolvido para ser contado como avaliação na disciplina Matemática para Computação da Fatec.
+# Desafio de Taylor
+Desafio de Taylor desenvolvido para ser contado como avaliação na disciplina Matemática para Computação da Fatec. O desafio consiste em calcular a trajetória dos insetos voadores que atacam a nave do jogador em um Jogo estilo Galaga. O calculo deve ser feito utilizando recorrência, e a resposta deve seguir certas regras de arredondamento descritas no enunciado do desafio passado pelo professor.
